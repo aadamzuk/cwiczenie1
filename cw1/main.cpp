@@ -11,7 +11,7 @@ int main()
     cin>>imie>>nazwisko;
     cout<<"Podaj rok urodzenia"<<endl;
     cin>>rok_urodzenia;
-    cout<<"Witam, nazywasz sie "<<imie<<" "<<nazwisko<<" i masz "<<aktualny_rok-rok_urodzenia<<" lat"<<endl;
+    cout<<"Witam, nazywasz sie "<<imie<<" "<<nazwisko<<"urodziles sie "<<rok_urodzenia<<" i masz "<<aktualny_rok-rok_urodzenia<<" lat"<<endl;
 
     return 0;
 }
